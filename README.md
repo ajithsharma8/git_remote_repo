@@ -5,3 +5,4 @@ adding line from local host
 adding line from the git repository 
 changes from git local machine
 changes from repository to fetch 
+changes from repository for pull 
